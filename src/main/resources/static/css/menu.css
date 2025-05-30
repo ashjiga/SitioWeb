@@ -43,7 +43,7 @@
 }
 
 .nav-menu-link:hover{
-    background-color: #024070;
+    background-color: lightslategray;
     padding: 8px 12px;
     border-radius: 10px;
     transition: 0.5s;

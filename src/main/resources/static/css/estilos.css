@@ -43,11 +43,11 @@ body{
 }
 
 tbody tr:nth-child(odd) {
-    background-color: blue;
-    color: white
+    background-color: slategrey;
+    color: black
 }
 
 tbody tr:nth-child(even) {
-    background-color: black;
-    color: white
+    background-color: slategrey;
+    color: black
 }
